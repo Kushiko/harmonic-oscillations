@@ -10,12 +10,10 @@
   },
   "dependencies": {
     "chart.js": "^4.4.7",
-    "konva": "^9.3.16",
     "next": "15.0.3",
     "react": "^18.2.0",
     "react-chartjs-2": "^5.2.0",
-    "react-dom": "^18.2.0",
-    "react-konva": "^19.0.1"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "eslint": "^8",
