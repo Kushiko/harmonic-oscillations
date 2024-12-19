@@ -13,7 +13,7 @@ function Toggle({ setIsAutoRotate, isAutoRotate }) {
         />
         <div
           className={`w-10 h-6 bg-gray-300 rounded-full transition-colors duration-200 ease-in-out ${
-            isAutoRotate ? "bg-[#4bc0c0]" : ""
+            isAutoRotate ? "bg-cyan-400" : ""
           }`}
         >
           <div
